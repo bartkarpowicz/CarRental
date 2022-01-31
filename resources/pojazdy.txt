@@ -1,0 +1,6 @@
+1,Opel,Astra,2014,89,s
+2,Opel,Astra,2014,89,s
+3,Opel,Astra,2014,89,s
+4,Kawasaki,Ninja,2012,119,m
+5,Kawasaki,Ninja,2012,119,m
+6,Kawasaki,Vulcan,2014,139,m
